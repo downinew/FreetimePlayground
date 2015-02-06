@@ -1,0 +1,12 @@
+E:\GitHub\FreetimePlayground\FreeTimeGame\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\GitHub\FreetimePlayground\FreeTimeGame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\GitHub\FreetimePlayground\FreeTimeGame\Temp\bin\Debug\UnityEditor.dll
+E:\GitHub\FreetimePlayground\FreeTimeGame\Temp\bin\Debug\UnityEngine.dll
+E:\GitHub\FreetimePlayground\FreeTimeGame\Temp\bin\Debug\UnityEngine.UI.dll
+E:\GitHub\FreetimePlayground\FreeTimeGame\Temp\bin\Debug\Mono.Cecil.dll
+E:\GitHub\FreetimePlayground\FreeTimeGame\Temp\bin\Debug\nunit.framework.dll
+E:\GitHub\FreetimePlayground\FreeTimeGame\Temp\bin\Debug\Unity.DataContract.dll
+E:\GitHub\FreetimePlayground\FreeTimeGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\GitHub\FreetimePlayground\FreeTimeGame\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+E:\GitHub\FreetimePlayground\FreeTimeGame\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\GitHub\FreetimePlayground\FreeTimeGame\obj\Debug\Assembly-CSharp-firstpass.pdb
